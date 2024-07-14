@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a student from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes machine learning, natural language processing, and satisfiability problem.
 
-I am very fortunate to be advised by [Li Jinlong A.P.](http://staff.ustc.edu.cn/~jlli/) of XXX Lab from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I am very fortunate to be advised by [Li Jinlong A.P.](http://staff.ustc.edu.cn/~jlli/) of [BDAA Lab](https://bigdata.ustc.edu.cn/) from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 You can find my CV here: [Ding Jiahe's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
