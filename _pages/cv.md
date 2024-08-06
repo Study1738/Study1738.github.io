@@ -45,12 +45,12 @@ Awards and Honors:
 
 Campus Experience:
 ======
-September 2020 – Present: One of the Heads of the Table Tennis Association at University of Science and Technology of China
-September 2020 – September 2021: Class Organization Committee Member
-September 2022 – February 2023: Teaching Assistant for Data Structures
-March 2023 – September 2023: Teaching Assistant for Mathematical Analysis B2
-September 2023 – February 2024: Teaching Assistant for Data Structures
-March 2024 – August 2024: Teaching Assistant for Databases
+* September 2020 – Present: One of the Heads of the Table Tennis Association at University of Science and Technology of China
+* September 2020 – September 2021: Class Organization Committee Member
+* September 2022 – February 2023: Teaching Assistant for Data Structures
+* March 2023 – September 2023: Teaching Assistant for Mathematical Analysis B2
+* September 2023 – February 2024: Teaching Assistant for Data Structures
+* March 2024 – August 2024: Teaching Assistant for Databases
 
 
 <div style="display:none">
